@@ -1,0 +1,10 @@
+{
+    "title": "Test Book",
+    "description": "This is a test book",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "comment",
+    ]
+}
